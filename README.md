@@ -46,6 +46,7 @@
   * [Android](#android)
   * [AWK](#awk)
   * [C/C++](#cc)
+  * [Clojure](#clojure)
   * [CSS/HTML](#css)
   * [Dart](#dart)
   * [Erlang](#erlang)
@@ -288,6 +289,10 @@
 * [QT 教程](http://www.kuqin.com/qtdocument/tutorial.html)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 
+### Clojure
+
+* [Clojure入门教程](http://xumingming.sinaapp.com/302/clojure-functional-programming-for-the-jvm-clojure-tutorial/)
+
 ### CSS
 
 * [学习CSS布局](http://zh.learnlayout.com/)
@@ -474,6 +479,7 @@
 * [PHP扩展开发及内核应用](http://www.walu.cc/phpbook/)
 * [Laravel5 中文文档](http://www.golaravel.com/laravel/docs/5.0/)
 * [Laravel 入门](https://github.com/huanghua581/laravel-getting-started)
+* [Symfony2 Cookbook 中文版](http://wiki.jikexueyuan.com/project/symfony-cookbook/)(版本 2.7.0 LTS)
 * [Symfony2中文文档](http://symfony-docs-chs.readthedocs.org/en/latest/) (未译完)
 * [YiiBook几本Yii框架的在线教程](http://yiibook.com//doc)
 * [深入理解 Yii 2.0](http://www.digpage.com/)
@@ -608,3 +614,5 @@
 ### 测试相关
 
 * [移动APP自动化测试优秀框架Appium API Reference V1.2.0 CN](http://appium.io/slate/cn/v1.2.0/)
+
+
